@@ -1,7 +1,7 @@
 # Food-ordering
 Food ordering system using python GUI.
 
-## Introduction
+## Description
  
 Ordering food online is very simple, the customer has to select the desired food items
 from the displayed menu, the total cost will be displayed to the customer. Later the
@@ -20,5 +20,4 @@ You can install Tkinter using pip:
 ```bash
 pip install tk
 ```
-## Contributors
--Nidhi Sheth(nidhisheth007@gmail.com)
+
