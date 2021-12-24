@@ -11,3 +11,11 @@ enter the address where the food needs to be delivered. Mobile number is also re
 the delivery person wants to contact.
 This interface can also be used in self-service hotels/restaurants, where the user has to
 select the food items and the bill will be printed. 
+
+# Requirements 
+- Python (Version: `>=3.7`)
+- [Tkinter] (https://docs.python.org/3/library/tkinter.html)
+You can install Tkinter using pip:
+```bash
+pip install tk
+```
