@@ -1,5 +1,5 @@
 # Food-ordering
-food ordering system using python GUI.
+Food ordering system using python GUI.
 
 # Introduction
  
@@ -15,6 +15,7 @@ select the food items and the bill will be printed.
 # Requirements 
 - Python (Version: `>=3.7`)
 - [Tkinter] (https://docs.python.org/3/library/tkinter.html)
+
 You can install Tkinter using pip:
 ```bash
 pip install tk
